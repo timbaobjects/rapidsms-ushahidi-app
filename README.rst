@@ -16,6 +16,7 @@ Configuration
 Here's an example configuration that's included in a typical settings.py of a RapidSMS deployment.
 
     USHAHIDI_KEYWORD = 'report'
+    
     USHAHIDI_RESPONSE = 'Thank you for your report'
 
 The first setting sets the keyword to look out for to activate the application. In this example, the 
